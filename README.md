@@ -19,5 +19,5 @@ A Python utility that automates the process of downloading images from URLs in a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/excel-image-downloader.git
+   git clone https://github.com/jahirulislamdms/Excel-Image-Downloader-Inserter.git
    cd excel-image-downloader
