@@ -22,7 +22,8 @@ To install and run the script, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/jahirulislamdms/Excel-Image-Downloader-Inserter.git
-   cd excel-image-downloader
+   
+   cd Excel-Image-Downloader-Inserter
 
 2. **Install required dependencies:**
    ```bash
